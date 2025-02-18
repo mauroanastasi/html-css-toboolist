@@ -2,6 +2,7 @@
     padding: 0;
     margin: 0;
     box-sizing: border-box;
+    font-style: ;
 }
 
 body{
@@ -30,4 +31,19 @@ h1{
     padding: 20px 40px;
     background-color:#fff;
     height: 1000px;
+}
+
+.square{
+    border: 1px solid gray;
+    border-radius: 3px;
+    padding: 6px;
+}
+
+.azzu{
+    background-color:#46ABF3;
+    color: #fff;
+}
+
+.grey{
+    color: gray;
 }
