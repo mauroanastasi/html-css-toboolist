@@ -7,7 +7,7 @@
 }
 
 body{
-    background-color: #F6F8FA;
+    background-color: #eceeef;
 }
 
 header{
@@ -24,11 +24,12 @@ h1{
     vertical-align: middle;
     margin-left: 15px;
     margin-top: 5px;
+    font-size: x-large;
 }
 
 .container{
-    max-width: 1100px;
-    margin: 20px auto;
+    max-width: 1200px;
+    margin: 40px auto;
     padding: 20px 60px;
     height: 1000px;
     background-color:#fff;
@@ -84,3 +85,35 @@ ul{
 .margintext{
     line-height: 40px;
 }
+
+.allsquare{
+    border-radius: 15px;
+    padding:8px 10px;
+    color: white;
+
+}
+
+.azz{
+    background-color:#4FA8E5 ;
+}
+
+.viol{
+    background-color: #A073E1;
+}
+
+.greenwater{
+    background-color: #68C1AC;
+}
+
+.orange{
+    background-color: #F2A12F;
+}
+
+.pink{
+    background-color: #DA61A6;
+}
+
+.green{
+    background-color: #B0CA28;
+}
+
